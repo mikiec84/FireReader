@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "655801692079",
+    "firebase_url": "https://android-testing-84478.firebaseio.com",
+    "project_id": "android-testing-84478",
+    "storage_bucket": "android-testing-84478.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655801692079:android:46b6f0c86492c0e7",
+        "android_client_info": {
+          "package_name": "com.example.hsga2.firereader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655801692079-ut8q47cor9crats1vn4fvts7oq55a5k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRv-Jcg4t8O3t6ec7BWG5cLcNR0zTK3KA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
